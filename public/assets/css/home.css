@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'RobotoMono';
+}
+
+html, body {
+    height: 100%;
+    
+}
+
+.cabecalho{
+    color: blanchedalmond;
+    
+}
+
+.cardm{
+    margin: 50px;
+    padding: 5px;
+    border-color: blueviolet;
+    background-color: darkgray;
+}
+
+
+.txtCard{
+    font-size: 9pt;
+    
+}
